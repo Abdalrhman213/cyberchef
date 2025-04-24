@@ -2,7 +2,7 @@
   "name": "cryptocraft-ai",
   "version": "1.0.0",
   "description": "منصة تشفير النشامى",
-  "homepage": "https://Abdalrhman213.github.io/cryptocraft-ai",
+  "homepage": "https://abdalrhman213.github.io/cyberchef",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
