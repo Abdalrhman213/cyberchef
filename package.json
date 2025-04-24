@@ -2,7 +2,7 @@
   "name": "cryptocraft-ai",
   "version": "1.0.0",
   "description": "منصة تشفير النشامى",
-  "homepage": "https://USERNAME.github.io/cryptocraft-ai", // 👈 استبدل USERNAME باسم مستخدم GitHub
+  "homepage": "https://Abdalrhman213.github.io/cryptocraft-ai", // 👈 استبدل USERNAME باسم مستخدم GitHub
   "scripts": {
     "dev": "vite",
     "build": "vite build",
